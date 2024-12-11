@@ -255,4 +255,100 @@ button:hover{
     height: 60px;
 }
 
+.last-pg{
+    background-color: #dfc327;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    font-family: Montserrat, sans-serif;
+}
+
+.content1{
+    width: 50%;
+    margin-top: 5%;
+    padding-left: 15%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 7%;
+
+}
+
+.para5{
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+.para6{
+    font-size: larger;
+}
+
+.line{
+    height: 1px;
+}
+
+.feedback{
+    width: 50%;
+    border-radius: 30px;
+    background-color: white;
+    margin-top: 5%;
+    margin-right: 13%;
+    margin-bottom: 7%;
+    display: flex;
+    flex-direction: row;
+}
+
+.feed{
+    width: 100%;
+    padding-left: 7%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.para7{
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.inputt{
+    width: 90%;
+}
+
+.btnn{
+    color: white;
+    border-radius: 30px;
+    background-color: black;
+    letter-spacing: 2px;
+    font-size: 15px;
+    margin-top: 9%;
+    height: 55px;
+    font-weight: bold;
+    width: 95%;
+}
+
+.last{
+    width: 100%;
+    color: white;
+    background-color: rgba(27, 25, 25, 0.951);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.site{
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.site1{
+    padding-bottom: 40px;
+}
+
+a{
+    color: white;
+}
 
